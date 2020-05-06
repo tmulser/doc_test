@@ -2,11 +2,14 @@
 layout: default
 title: home
 ---
+This should be an introduction for AMrotor!
 
-Hello world!
+[First steps](level/index.html)
+[Preprocessing](level/index.html)
+[Calculations](level/index.html)
+[Postprocessing](level/index.html)
+[Examples](level/index.html)
 
-Next level: [Easy start](https://github.com/tmulser/doc_test/blob/master/level.md)
-[Overview](level/index.html)
+<!--<li><a href="/level">Level</a></li>-->
 
-<li><a href="/level">Level</a></li>
 
