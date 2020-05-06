@@ -4,8 +4,8 @@ title: home
 ---
 This should be an introduction for AMrotor!
 
-<p>[First steps](level/index.html)</p>
-<p>[Preprocessing](level/index.html)</p>
+-[First steps](level/index.html)
+-[Preprocessing](level/index.html)
 <p>[Calculations](level/index.html)</p>
 <p>[Postprocessing](level/index.html)</p>
 <p>[Examples](level/index.html)</p>
