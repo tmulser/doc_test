@@ -14,11 +14,3 @@ This should be an introduction for AMrotor!
 </nav>
 
 <!--<li><a href="/level">Level</a></li>-->
-#<nav>
-#	    		<ul>
-#	        		<a href="/">Home</a>
-#		        	<li><a href="/about">About</a></li>
-#	        		<li><a href="/cv">CV</a></li>
-#	        		<li><a href="/blog">Blog</a></li>
-#	    		</ul>
-#			</nav>
