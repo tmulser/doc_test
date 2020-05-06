@@ -6,7 +6,7 @@ This should be an introduction for AMrotor!
 <nav>
           <ul>
               <a href="level/index.html">First steps</a>
-              <a href="level/index.html">Preprocessing</a>
+              <a href="level/index">Preprocessing</a>
               <a href="level/index.html">Calculations</a>
               <a href="level/index.html">Postprocessing</a>
               <a href="level/index.html">Examples</a>
