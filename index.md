@@ -10,5 +10,7 @@ This should be an introduction for AMrotor!
 <li>[Postprocessing](level/index.html)</li>
 <li>[Examples](level/index.html)</li>
  </ul>
+ 
+<a href="level/index.html">First steps</a>
 
 <!--<li><a href="/level">Level</a></li>-->
